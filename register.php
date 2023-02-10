@@ -9,12 +9,6 @@
     <title>Document</title>
 </head>
 <body>
-    <div class="container">
-        <div class="d-center">
-            <div class="wrapper px-5 py-4">
-                
-            </div>
-        </div>
-    </div>
+    
 </body>
 </html>
